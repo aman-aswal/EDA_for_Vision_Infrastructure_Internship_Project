@@ -21,6 +21,7 @@ Interactive dashboard with filters for course, date, and marketing channel.
 Data-driven recommendations for increasing sales and improving marketing ROI.
 
 📂 Repository Structure
+
 ├── data/           # Raw & processed datasets  
 ├── notebooks/      # Goggle Colab for EDA   
 ├── README.md       # Project documentation  
